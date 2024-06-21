@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pair-programming-timer/static/css/main.6249532e.css",
+    "main.js": "/pair-programming-timer/static/js/main.6a12923c.js",
+    "static/js/787.8b5cc5fd.chunk.js": "/pair-programming-timer/static/js/787.8b5cc5fd.chunk.js",
+    "index.html": "/pair-programming-timer/index.html",
+    "main.6249532e.css.map": "/pair-programming-timer/static/css/main.6249532e.css.map",
+    "main.6a12923c.js.map": "/pair-programming-timer/static/js/main.6a12923c.js.map",
+    "787.8b5cc5fd.chunk.js.map": "/pair-programming-timer/static/js/787.8b5cc5fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6249532e.css",
+    "static/js/main.6a12923c.js"
+  ]
+}
